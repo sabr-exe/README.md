@@ -39,19 +39,17 @@ _(projects are continuously improving)_
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Stats
 ![GitHub followers](https://img.shields.io/github/followers/sabr-exe?style=for-the-badge&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/sabr-exe?style=for-the-badge&color=yellow)
 ![GitHub contributions](https://img.shields.io/github/contributions/sabr-exe?style=for-the-badge&color=green)
 ![Profile Views](https://komarev.com/ghpvc/?username=sabr-exe&style=for-the-badge&color=red)
 
+---
+
 ### 📈 GitHub Stats2
 ![Stats](https://github-stats-alpha.vercel.app/api?username=sabr-exe&cc=000&tc=fff&ic=fff&bc=000)
 
-### 📈 GitHub Stats3
-<p align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=sabr-exe&show_icons=true&theme=radical" />
-</p>
 ---
 
 ### 📫 Contact Me
